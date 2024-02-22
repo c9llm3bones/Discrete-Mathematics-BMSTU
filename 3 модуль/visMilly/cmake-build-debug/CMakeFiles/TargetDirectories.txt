@@ -1,0 +1,3 @@
+/home/kostya/2_sem/Дискра/3 модуль/visMilly/cmake-build-debug/CMakeFiles/visMilly.dir
+/home/kostya/2_sem/Дискра/3 модуль/visMilly/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kostya/2_sem/Дискра/3 модуль/visMilly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
