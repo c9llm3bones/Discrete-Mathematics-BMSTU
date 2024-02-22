@@ -1,0 +1,3 @@
+/home/kostya/2_sem/Дискра/2 модуль/Cpm/cmake-build-debug/CMakeFiles/Cpm.dir
+/home/kostya/2_sem/Дискра/2 модуль/Cpm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kostya/2_sem/Дискра/2 модуль/Cpm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
